@@ -1,4 +1,5 @@
-calss MyString {
+//修改  类名错误
+class MyString {
  public:
   const  string& operator = (const MyString& p1)
   {
