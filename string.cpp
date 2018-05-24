@@ -1,3 +1,4 @@
+//来自Avenger1-3的修改
 //修改  类名错误
 class MyString {
  public:
